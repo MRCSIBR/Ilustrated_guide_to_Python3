@@ -4,7 +4,7 @@ def check_number(num):
     
         return True
     
-    lse: 
+    else: 
         return False
 
 num = 297
