@@ -1,4 +1,9 @@
 
+"""
+Que tiene 366 días en lugar de 365, en el que febrero tiene 29 días en 
+lugar de 28; se repite cada cuatro años, excepto cuando el año acaba en 
+dos ceros.
+"""
 
 def check_leap_year(year):
     leap = False
