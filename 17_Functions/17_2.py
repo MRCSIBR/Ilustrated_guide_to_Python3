@@ -1,4 +1,4 @@
-#17.2 Funcion para determinar si un numero es primo
+# 17.2 Funcion para determinar si un numero es primo
 
 def is_prime(number):
     if number <= 1:
