@@ -19,7 +19,7 @@ def sieve_of_eratosthenes(n):
 
     return primes
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     n = 100
     prime_numbers = sieve_of_eratosthenes(n)
     
