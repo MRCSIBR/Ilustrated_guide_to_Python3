@@ -19,9 +19,9 @@ def sieve_of_eratosthenes(n):
 
     return primes
 
-
-n = 100
-prime_numbers = sieve_of_eratosthenes(n)
-
-print("Números primos hasta", n, ":")
-print(prime_numbers)
+if __name__ == "__main__"
+    n = 100
+    prime_numbers = sieve_of_eratosthenes(n)
+    
+    print("Números primos hasta", n, ":")
+    print(prime_numbers)
