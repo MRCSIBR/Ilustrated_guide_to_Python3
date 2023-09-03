@@ -22,8 +22,8 @@ The repository contains the following files and directories:
 # Usage
 To use this repository, follow these steps:
 
-    Clone the repository to your local machine using `git clone https://github.com/MRCSIBR/Ilustrated_guide_to_Python3.git`
-    Navigate to the exercises/ directory.
+    `git clone https://github.com/MRCSIBR/Ilustrated_guide_to_Python3.git`
+    Navigate to the chapter you want to practice.
     Open the file corresponding to the exercise you want to check.
     Compare your solution to the one provided in the file.
 
