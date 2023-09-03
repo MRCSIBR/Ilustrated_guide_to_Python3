@@ -1,12 +1,13 @@
 ## Illustrated guide to Python 3 (2017) 
 
-En este repositorio estan mis soluciones a los ejercicios 
-del libro 'Illustrated guide to Python3' del autor Matt Harrison.
+El proposito de este repositorio es documentar mis soluciones a los ejercicios 
+del libro 'Illustrated guide to Python 3' del autor Matt Harrison. Cada capitulo propone
+al lector algunos ejercicios para practicar conceptos.
 
 ## Changelog
 ### 27.5.2023
 
-- Cheatsheet con resumen de comandos agregado
+- Cheatsheet con resumen de codigo agregado
 
 ## Purpose
 The purpose of this repository is to provide solutions to the exercises in the book "Illustrated guide to Python3" by Matt Harrison. 
