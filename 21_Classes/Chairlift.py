@@ -2,7 +2,7 @@ class Chairlift:
     ''' Clase Chairlift: modela un funicular de 4 pasajeros
         
         Metodos: load_passenger
-                unload_passenger    
+                 unload_passenger    
     '''
     
     def __init__(self):
