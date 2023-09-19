@@ -6,10 +6,10 @@ class Chairlift:
     '''
     
     def __init__(self):
-        self.max_occupancy = 4
+        self.max_occupancy = 4                           # Atributos constantes de la clase
         self.current_occupancy = 0
     
-    def load_passenger(self):
+    def load_passenger(self):                            # Metodo
         if self.current_occupancy < self.max_occupancy:
             self.current_occupancy += 1
             print("Passenger loaded.")
@@ -24,7 +24,7 @@ class Chairlift:
             print("Chairlift is already empty.")
             
 
-silla1 = Chairlift()
+silla1 = Chairlift()                                    # Crear una nueva instancia 'Chairlift'
 
 # Cargar pasajeros
 silla1.load_passenger() 
