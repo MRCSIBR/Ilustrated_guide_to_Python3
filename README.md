@@ -8,7 +8,7 @@ al lector algunos ejercicios para practicar conceptos.
 El repositorio continene los siguientes archivos:
 
     README.md: Info acerca del repo.
-    cheatsheet.md: Resumen de codigo usado para resolver loe ejercicios.
+    cheatsheet.md: Resumen de codigo usado para resolver los ejercicios.
    
 ## Contribucion
 Las contribuciones son bienvenidas. Si encuentras un error en alguna de las soluciones o quieres contribuir alguna, puedes crear un `pull request`.
