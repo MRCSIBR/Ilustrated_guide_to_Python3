@@ -1,8 +1,9 @@
+# Resumen Python
 
-```markdown
 # VARIABLES AND DATA TYPES
 
 ## Variable assignment
+
 ```python
 name = "John"
 age = 25
