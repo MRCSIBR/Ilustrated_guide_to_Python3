@@ -150,5 +150,3 @@ area = math.pi * radius ** 2
 ```python
 result = sum([i for i in range(1, 101)])
 ```
-```
-```
