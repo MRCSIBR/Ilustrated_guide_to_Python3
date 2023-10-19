@@ -150,9 +150,5 @@ area = math.pi * radius ** 2
 ```python
 result = sum([i for i in range(1, 101)])
 ```
-
-## Proper code organization
-```python
-# Code should be organized into functions, classes, and modules for clarity and reusability.
 ```
 ```
