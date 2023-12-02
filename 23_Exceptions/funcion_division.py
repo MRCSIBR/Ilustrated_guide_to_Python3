@@ -11,5 +11,5 @@ def divide_numbers():
     except ValueError:
         print("Error: Please enter valid numeric values.")
 
-# Calling the function to divide numbers
+# Llamar la funcion
 divide_numbers()
