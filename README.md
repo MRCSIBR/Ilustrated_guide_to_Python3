@@ -10,7 +10,7 @@ El repositorio continene los siguientes archivos:
     README.md: Información acerca del repositorio.
     cheatsheet.md: Resumen de código usado para resolver los ejercicios.
    
-## Contribucion
+## Contribución
 Las contribuciones son bienvenidas. Si encuentras un error en alguna de las soluciones o quieres contribuir alguna, puedes crear un `pull request`.
 
 ## Changelog
