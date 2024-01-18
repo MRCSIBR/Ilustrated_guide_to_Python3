@@ -1,10 +1,10 @@
-import json  # Import the json module
+import json  # Importar el modulo json
 
-# Create a sample dictionary
+# Crear un diccionario de ejemplo
 data = {
-    "name": "John",
-    "age": 30,
-    "city": "New York"
+    "nombre": "John",
+    "edad": 30,
+    "ciudad": "New York"
 }
 
 # Serialize the dictionary to a JSON string
